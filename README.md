@@ -8,7 +8,7 @@ O Gerenciador de Tarefas Pessoais é um aplicativo Android desenvolvido para mat
 
 ## Recursos
 
-- **Criação de Tarefas**: Crie tarefas com nome, descrição, categoria, data e hora.
+- **Criação de Tarefas**: Crie tarefas com nome, descrição, categoria e data.
 - **Priorização de Tarefas**: Determine a importância de cada tarefa e organize sua rotina com eficácia.
 - **Interface Amigável**: Interface de usuário simples e intuitiva, tornando a experiência do usuário fluida e agradável.
 
