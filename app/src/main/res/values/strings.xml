@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Project - Tasks</string>
+    <string name="titulo">Task Title</string>
+    <string name="data">"Date: "</string>
+    <string name="localizacao">"Location: "</string>
+    <string name="periodo">"Period: "</string>
+    <string name="manha">Morning</string>
+    <string name="tarde">Afternoon</string>
+    <string name="noite">Night</string>
+    <string name="descricao">"Description: "</string>
+    <string name="limpar">Clear</string>
+    <string name="salvar">Save</string>
+    <string name="concluido">"Completed: "</string>
+    <string name="online">Online</string>
+    <string name="desabilitado_true">true</string>
+    <string name="desabilitado_false">false</string>
+    <string name="tarefa">"Task: "</string>
+    <string name="tarefa_clicada">"Task clicked: "</string>
+    <string name="adicionar">Add</string>
+    <string name="sobre">About</string>
+    <string name="voltar">Back</string>
+    <string name="cancelar">Cancel</string>
+    <string name="lista_tarefas">Task list</string>
+    <string name="dados_tarefa">Task data</string>
+    <string name="alterar">Change</string>
+    <string name="excluir">Delete</string>
+    <string name="editar">Edit</string>
+    <string name="remover">Remove</string>
+    <string name="tema">Theme</string>
+    <string name="claro">Light</string>
+    <string name="escuro">Dark</string>
+    <string name="tema_escuro">Dark Theme</string>
+    <string-array name="periodo_array">
+        <item>Manhã</item>
+        <item>Tarde</item>
+        <item>Noite</item>
+    </string-array>
+    <string name="preencha_campos">Fill in the fields to save the task</string>
+    <string name="campos_limpos">Clear fields</string>
+    <string name="item_salvo">Saved item</string>
+    <string name="data_invalida">Invalid Date</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <!-- Sobre !-->
+    <string name="allan_lopes_ferreira">Allan Lopes Ferreira</string>
+    <string name="email_endereco">allanferreira@alunos.utfpr.edu.br</string>
+    <string name="sobre_aplicativo">About the application</string>
+    <string name="sobre_descricao">This application is intended to be a task organizer, enabling the user to organize their tasks and appointments</string>
+    <string name="especializacao_java">Java Specialization Course</string>
+    <string name="logo_utfpr">Logo of the Federal Technological University of Paraná</string>
+    <!-- Prioridade !-->
+    <string name="prioridade">"Priority: "</string>
+    <string name="prioridade_baixa">Low</string>
+    <string name="prioridade_media">Medium</string>
+    <string name="prioridade_alta">High</string>
+    <!-- Datas !-->
+    <string name="data01_05062023">05/06/2023</string>
+    <string name="data02_07062023">07/06/2023</string>
+    <string name="data03_10062023">10/06/2023</string>
+    <string name="data04_11062023">11/06/2023</string>
+    <string name="data05_14062023">14/06/2023</string>
+    <string name="data06_16062023">16/06/2023</string>
+    <string name="data07_18062023">18/06/2023</string>
+    <string name="data08_22062023">22/06/2023</string>
+    <string name="data09_23062023">23/06/2023</string>
+    <string name="data10_02072023">02/07/2023</string>
+    <!-- Descricao !-->
+    <string name="ibm_online">IBM - Online</string>
+    <string name="outback_shopping_analia">Outback - Shopping Analia</string>
+    <string name="teams_equatorial">Teams - Equatorial</string>
+    <string name="sem_localizacao">Sem Localizacao</string>
+    <string name="av_paulista">Av Paulista, 2456</string>
+    <string name="dona_veridiana_123">Dona Veridiana, 123</string>
+    <string name="descri_gato_veterinario">Levar gato no veterinario para realizar check-up</string>
+    <string name="descri_levar_carro_oficina">Levar carro na oficina para fazer a revisao da garantia</string>
+    <string name="descri_entregar_imposto_de_renda">Fazer a declaracao anual de imposto de renda</string>
+    <string name="descri_consulta_oftamologista">Retorno ao oftamologista</string>
+    <string name="descri_gato_tosa">Levar gato na tosa - agendado</string>
+    <string name="descri_entrevista_ibm">Segunda etapa da entrevista na IBM que sera online</string>
+    <string name="descri_prova_frameworks">Segunda chamada da prova de Frameworks</string>
+    <string name="descri_relatorio_atividades">Enviar o relatorio das atividades</string>
+    <string name="descri_planning_8">Planning da Sprint 8 - Equatorial</string>
+    <string name="descri_aniversario_mae">Comemorar aniversario - Levar bolo</string>
+    <!-- Tarefa !-->
+    <string name="levar_gato_veterinario">Levar gato no veterinario</string>
+    <string name="levar_carro_oficina">Levar carro na oficina</string>
+    <string name="entregar_imposto_de_renda">Entregar imposto de renda</string>
+    <string name="consulta_oftamologista">Consulta - Oftamologista</string>
+    <string name="levar_gato_tosa">Levar gato na tosa</string>
+    <string name="entrevista_ibm">Entrevista - IBM</string>
+    <string name="prova_frameworks_web">Prova de Frameworks Web</string>
+    <string name="enviar_relatorio_atividades">Enviar relatorio - Atividades</string>
+    <string name="planning_sprint_8">Planning - Sprint 8</string>
+    <string name="aniversario_mae">Aniversario - Mae</string>
+    <!-- Localizacao !-->
+    <string name="camposLimpos">Clear fields</string>
+    <string name="alameda_barros">Alameda Barros, 256</string>
+    <string name="rua_das_andradas">Rua das Andradas, 87</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tarefa">
+        <item>@string/levar_gato_veterinario</item>
+        <item>@string/levar_carro_oficina</item>
+        <item>@string/entregar_imposto_de_renda</item>
+        <item>@string/consulta_oftamologista</item>
+        <item>@string/levar_gato_tosa</item>
+        <item>@string/entrevista_ibm</item>
+        <item>@string/prova_frameworks_web</item>
+        <item>@string/enviar_relatorio_atividades</item>
+        <item>@string/planning_sprint_8</item>
+        <item>@string/aniversario_mae</item>
+    </string-array>
+    <string-array name="data">
+        <item>@string/data01_05062023</item>
+        <item>@string/data02_07062023</item>
+        <item>@string/data03_10062023</item>
+        <item>@string/data04_11062023</item>
+        <item>@string/data05_14062023</item>
+        <item>@string/data06_16062023</item>
+        <item>@string/data07_18062023</item>
+        <item>@string/data08_22062023</item>
+        <item>@string/data09_23062023</item>
+        <item>@string/data10_02072023</item>
+    </string-array>
+    <string-array name="localizacao">
+        <item>@string/alameda_barros</item>
+        <item>@string/rua_das_andradas</item>
+        <item>@string/online</item>
+        <item>@string/av_paulista</item>
+        <item>@string/dona_veridiana_123</item>
+        <item>@string/ibm_online</item>
+        <item>@string/online</item>
+        <item>@string/sem_localizacao</item>
+        <item>@string/teams_equatorial</item>
+        <item>@string/outback_shopping_analia</item>
+    </string-array>
+    <string-array name="prioridade">
+        <item>@string/prioridade_baixa</item>
+        <item>@string/prioridade_media</item>
+        <item>@string/prioridade_alta</item>
+        <item>@string/prioridade_baixa</item>
+        <item>@string/prioridade_media</item>
+        <item>@string/prioridade_alta</item>
+        <item>@string/prioridade_baixa</item>
+        <item>@string/prioridade_media</item>
+        <item>@string/prioridade_alta</item>
+        <item>@string/prioridade_alta</item>
+    </string-array>
+    <string-array name="periodo">
+        <item>@string/manha</item>
+        <item>@string/tarde</item>
+        <item>@string/noite</item>
+        <item>@string/manha</item>
+        <item>@string/tarde</item>
+        <item>@string/noite</item>
+        <item>@string/manha</item>
+        <item>@string/tarde</item>
+        <item>@string/noite</item>
+        <item>@string/tarde</item>
+    </string-array>
+    <string-array name="descricao">
+        <item>@string/descri_gato_veterinario</item>
+        <item>@string/descri_levar_carro_oficina</item>
+        <item>@string/descri_entregar_imposto_de_renda</item>
+        <item>@string/descri_consulta_oftamologista</item>
+        <item>@string/descri_gato_tosa</item>
+        <item>@string/descri_entrevista_ibm</item>
+        <item>@string/descri_prova_frameworks</item>
+        <item>@string/descri_relatorio_atividades</item>
+        <item>@string/descri_planning_8</item>
+        <item>@string/descri_aniversario_mae</item>
+    </string-array>
+    <string-array name="concluido">
+        <item>@string/desabilitado_false</item>
+        <item>@string/desabilitado_true</item>
+        <item>@string/desabilitado_false</item>
+        <item>@string/desabilitado_true</item>
+        <item>@string/desabilitado_false</item>
+        <item>@string/desabilitado_true</item>
+        <item>@string/desabilitado_false</item>
+        <item>@string/desabilitado_true</item>
+        <item>@string/desabilitado_false</item>
+        <item>@string/desabilitado_true</item>
+    </string-array>
+</resources>

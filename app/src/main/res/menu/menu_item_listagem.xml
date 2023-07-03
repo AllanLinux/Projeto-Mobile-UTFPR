@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemAdicionar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/adicionar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemTema"
+        android:title="@string/tema">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/menuItemTema_Escuro"
+                    android:title="@string/escuro" />
+                <item
+                    android:id="@+id/menuItemTema_Claro"
+                    android:title="@string/claro" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menuItemSobre"
+        android:title="@string/sobre" />
+</menu>
