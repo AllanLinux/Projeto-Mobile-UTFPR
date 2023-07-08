@@ -42,6 +42,8 @@
     <string name="especializacao_java">Curso de especializaçao em Java</string>
     <string name="logo_utfpr">Logo da Universidade Tecnologica Federal do Parana</string>
     <string name="email_endereco">allanferreira@alunos.utfpr.edu.br</string>
+    <string name="confirmar_exclusao">Confirmar exclusão</string>
+    <string name="msg_dialog_exclusao">Tem certeza de que deseja excluir esta tarefa?</string>
     <string name="preencha_campos">Preencha os campos para salvar a tarefa</string>
     <string name="campos_limpos">Campos limpos</string>
     <string name="item_salvo">Item salvo</string>

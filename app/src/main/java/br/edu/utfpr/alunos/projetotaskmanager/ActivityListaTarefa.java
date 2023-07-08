@@ -277,9 +277,9 @@ public class ActivityListaTarefa extends AppCompatActivity {
         Tarefa tarefa = tarefas.get(position);
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Confirmar exclusão");
-        builder.setMessage("Tem certeza de que deseja excluir esta tarefa?");
-        builder.setPositiveButton("Excluir", new DialogInterface.OnClickListener() {
+        builder.setTitle(R.string.confirmar_exclusao);
+        builder.setMessage(R.string.msg_dialog_exclusao);
+        builder.setPositiveButton(R.string.excluir, new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 executorService.execute(new Runnable() {

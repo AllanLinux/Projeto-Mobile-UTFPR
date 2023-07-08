@@ -30,6 +30,8 @@
     <string name="claro">Light</string>
     <string name="escuro">Dark</string>
     <string name="tema_escuro">Dark Theme</string>
+    <string name="confirmar_exclusao">Confirmar exclusão</string>
+    <string name="msg_dialog_exclusao">Tem certeza de que deseja excluir esta tarefa?</string>
     <string-array name="periodo_array">
         <item>Manhã</item>
         <item>Tarde</item>
